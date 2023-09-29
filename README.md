@@ -4,8 +4,10 @@ CMSC391/COAR463 Game Development - Minor Project 1
 **Project title:**  
 **Team Members:** Grace Johnson, Cameron Krainock  
 **Project description:**  
-**Folders:**  
-
+ 
+| Folder | Description |
+|---|---|
+| [folder]() | description |
 
 Great job on creating your own copy of the minor project 1 scaffold!
 
