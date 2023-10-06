@@ -13,7 +13,11 @@ CMSC391/COAR463 Game Development - Minor Project 1
 | [frank_game](frank_game) | Main project folder |
 | [Assets](frank_game/Assets) | Animations, audio, prefabs, etc.  |
 | [Packages](frank_game/Packages) | Default packages and installed packages  |
+| [ProjectSettings](frank_game/ProjectSettings) | Project settings auto-saved by Unity  |
 | []() | description  |
 | []() | description  |
+| []() | description  |
+| []() | description  |
+
 
 
