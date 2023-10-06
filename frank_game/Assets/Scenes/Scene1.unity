@@ -1529,7 +1529,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.287077, y: 3.519, z: -10.161886}
+  m_LocalPosition: {x: -2.193449, y: 3.519, z: -10.161886}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2861,7 +2861,7 @@ Transform:
   m_GameObject: {fileID: 1571508238}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.287077, y: 3.519, z: -10.161886}
+  m_LocalPosition: {x: -2.193449, y: 3.519, z: -10.161886}
   m_LocalScale: {x: 0.2027816, y: 0.015450551, z: 1.5922}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3458,6 +3458,7 @@ GameObject:
   - component: {fileID: 6685850460162678639}
   - component: {fileID: 8806511768313219744}
   - component: {fileID: 8806511768313219745}
+  - component: {fileID: 8806511768313219746}
   m_Layer: 5
   m_Name: Score Canvas
   m_TagString: Untagged
@@ -3677,6 +3678,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &8806511768313219746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413658406524229610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":null,"embed":null}}'
     _objectReferences: []
 --- !u!114 &9049911223553192079
 MonoBehaviour:
