@@ -7,4 +7,6 @@ CMSC391/COAR463 Game Development - Minor Project 1
  
 | Folder | Description |
 |---|---|
-| [folder]() | description |
+| [frank_game]() | Main project folder |
+| [Assets]() | Assets:  |
+
