@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Unity.VisualScripting;
 
 
 public class Hearts : MonoBehaviour
@@ -20,9 +21,9 @@ public class Hearts : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
-        
+       Variables.Application.Set("Lives", lives);
     }
+
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision == safeZone && canLoseLife == true) {
