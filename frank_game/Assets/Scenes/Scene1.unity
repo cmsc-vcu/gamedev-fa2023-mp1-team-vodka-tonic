@@ -259,7 +259,6 @@ GameObject:
   - component: {fileID: 165548305}
   - component: {fileID: 165548304}
   - component: {fileID: 165548307}
-  - component: {fileID: 165548308}
   m_Layer: 0
   m_Name: PlayerSprite
   m_TagString: Player
@@ -604,30 +603,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &165548308
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 165548298}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b758800083171f46b5b27c1cab66b6f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  hearts:
-  - {fileID: 1728970726}
-  - {fileID: 513282354}
-  - {fileID: 1746433136}
-  - {fileID: 1611091311}
-  - {fileID: 298632468}
-  - {fileID: 607522386}
-  - {fileID: 1623485776}
-  - {fileID: 406659314}
-  - {fileID: 565583785}
-  lives: 0
-  safeZone: {fileID: 705559492}
 --- !u!1 &202606956
 GameObject:
   m_ObjectHideFlags: 0
@@ -1554,11 +1529,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
   m_LocalPosition: {x: -2.193449, y: 3.519, z: -10.161886}
-=======
-  m_LocalPosition: {x: -2.176642, y: 3.519, z: -10.161886}
->>>>>>> 9689b8dbf52af68a4187254d772a6899e08b9aeb
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2890,11 +2861,7 @@ Transform:
   m_GameObject: {fileID: 1571508238}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
   m_LocalPosition: {x: -2.193449, y: 3.519, z: -10.161886}
-=======
-  m_LocalPosition: {x: -2.176642, y: 3.519, z: -10.161886}
->>>>>>> 9689b8dbf52af68a4187254d772a6899e08b9aeb
   m_LocalScale: {x: 0.2027816, y: 0.015450551, z: 1.5922}
   m_ConstrainProportionsScale: 0
   m_Children:
